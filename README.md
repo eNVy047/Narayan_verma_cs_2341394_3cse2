@@ -1,24 +1,5 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0001-two-sum) |
-| [0027-remove-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0027-remove-element) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0283-move-zeroes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0027-remove-element) |
-| [0283-move-zeroes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0283-move-zeroes) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0001-two-sum) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0121-best-time-to-buy-and-sell-stock) |
-<!---LeetCode Topics End-->
+# LeetCode & GFG Solutions
+
+| Problem | Platform | Link | Difficulty | Date |
+| --- | --- | --- | --- | --- |
+| Move Zeroes | LeetCode | [Link](https://leetcode.com/problems/move-zeroes/submissions/1973730109/) | Easy | 09/04/2026 |
