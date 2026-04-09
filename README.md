@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
