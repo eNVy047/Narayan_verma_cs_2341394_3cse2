@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
 ## Math
@@ -52,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,4 +66,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
