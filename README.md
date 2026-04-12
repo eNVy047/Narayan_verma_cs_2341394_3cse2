@@ -18,12 +18,14 @@
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
