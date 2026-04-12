@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
