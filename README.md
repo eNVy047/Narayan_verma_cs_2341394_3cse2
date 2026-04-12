@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0056-merge-intervals) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
