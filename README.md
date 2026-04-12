@@ -99,4 +99,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
