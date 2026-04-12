@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
