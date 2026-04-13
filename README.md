@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +106,16 @@
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0065-valid-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
