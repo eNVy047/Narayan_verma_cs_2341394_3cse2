@@ -71,6 +71,7 @@
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -113,6 +114,7 @@
 | [0065-valid-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0065-valid-number) |
 | [0257-binary-tree-paths](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0709-to-lower-case) |
 ## Tree
 |  |
