@@ -62,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
