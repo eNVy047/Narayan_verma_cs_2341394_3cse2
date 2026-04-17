@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0065-valid-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0065-valid-number) |
 | [0257-binary-tree-paths](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0709-to-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -185,4 +188,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0222-count-complete-tree-nodes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
