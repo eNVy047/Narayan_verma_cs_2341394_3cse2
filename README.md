@@ -27,6 +27,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
@@ -61,6 +63,7 @@
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
 |  |
@@ -128,6 +131,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0709-to-lower-case) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Tree
@@ -190,6 +194,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0222-count-complete-tree-nodes) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
