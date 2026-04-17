@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0344-reverse-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0709-to-lower-case) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Tree
 |  |
 | ------- |
