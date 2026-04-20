@@ -71,11 +71,13 @@
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,4 +201,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
