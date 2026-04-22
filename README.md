@@ -85,6 +85,7 @@
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -227,6 +230,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
