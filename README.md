@@ -49,12 +49,14 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -87,6 +89,7 @@
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
@@ -237,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
@@ -245,4 +249,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0700-search-in-a-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
