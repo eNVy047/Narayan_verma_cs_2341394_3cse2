@@ -86,6 +86,7 @@
 | [0031-next-permutation](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
