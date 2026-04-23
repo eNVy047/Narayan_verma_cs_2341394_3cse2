@@ -76,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
@@ -220,6 +221,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
@@ -230,6 +232,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
