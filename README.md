@@ -180,6 +180,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0257-binary-tree-paths) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -245,6 +246,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
