@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -257,9 +259,14 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
