@@ -75,6 +75,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Math
@@ -82,6 +83,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -236,6 +238,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
