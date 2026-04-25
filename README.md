@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@
 | [0053-maximum-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
