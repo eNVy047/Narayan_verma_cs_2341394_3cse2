@@ -30,6 +30,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3904-smallest-stable-index-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
