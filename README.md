@@ -81,6 +81,7 @@
 | [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Math
@@ -90,6 +91,7 @@
 | [0007-reverse-integer](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -220,6 +222,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/eNVy047/Narayan_verma_cs_2341394_3cse2/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
